@@ -102,3 +102,17 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# large folders
+log/
+training_data/
+3-hidd-64-neur-1-dens/
+2-hidd-32-neur-1-dens/
+test_data/
+pkl/
+
+# ruby
+*.rb
+
+for_blog.DS_Store
+images.tar
